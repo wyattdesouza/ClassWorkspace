@@ -228,3 +228,176 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1720.666464 seconds.
+  path: Assets/PlatformerSet1/02 background.png
+  artifactKey: Guid(0ff110103311344449b3b91008a97905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/02 background.png using Guid(0ff110103311344449b3b91008a97905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368d00f8bbc01a51fb46cd1100c3cf80') in 0.004235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/PlatformerSet1/04 background.png
+  artifactKey: Guid(048637bba7f02c8499a2dfc07ecc075f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/04 background.png using Guid(048637bba7f02c8499a2dfc07ecc075f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d74aa73d63453506e13b7a68c2a2eaa') in 0.001815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/PlatformerSet1/other_and_decorative.png
+  artifactKey: Guid(fc125cd2b902af1428138adb4c7f6ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/other_and_decorative.png using Guid(fc125cd2b902af1428138adb4c7f6ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b93dcafec3ee336007fa4f27aea012b') in 0.001341 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PlatformerSet1/03 background B.png
+  artifactKey: Guid(671c2728bfbe13e4a908a31d4b0a22fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/03 background B.png using Guid(671c2728bfbe13e4a908a31d4b0a22fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f3fc1178fd8b2a8655857617ccc6aa') in 0.002036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 45.825697 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/attack-02.png
+  artifactKey: Guid(9a20c343a03a6e54a9a3c14e4ed48626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/attack-02.png using Guid(9a20c343a03a6e54a9a3c14e4ed48626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb53c2f3474c58e11a51d3afdbb95c81') in 0.001408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/dead-01.png
+  artifactKey: Guid(5b43cb96099e8894b98f6aef9ec87f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/dead-01.png using Guid(5b43cb96099e8894b98f6aef9ec87f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92e85e29823f2db6379cfe7efde6e2b') in 0.001686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/run-05.png
+  artifactKey: Guid(9985254870ccc2e478d5340a762f0601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/run-05.png using Guid(9985254870ccc2e478d5340a762f0601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69831394584f539e9d4f2c53ada64a24') in 0.001487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/dead-02.png
+  artifactKey: Guid(3eecfb6be120d34478af5d676f903670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/dead-02.png using Guid(3eecfb6be120d34478af5d676f903670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a625b402888b0ca3ee0a6ca490bae320') in 0.001681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/jump-landing-01.png
+  artifactKey: Guid(0984a7b4063a8a34d861af8c0fa3e018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/jump-landing-01.png using Guid(0984a7b4063a8a34d861af8c0fa3e018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1da00bcf493868e820e97b9795bb850') in 0.001338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/attack-07-continue.png
+  artifactKey: Guid(b06a0c5187b449349b9e035257636f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/attack-07-continue.png using Guid(b06a0c5187b449349b9e035257636f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15b1834ef390031abe13254644a0809') in 0.001745 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/idle-05.png
+  artifactKey: Guid(a99dee446f3dc7145b6e245387da76b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/idle-05.png using Guid(a99dee446f3dc7145b6e245387da76b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9184f760688061df942c5f667257a901') in 0.001493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/jump-01.png
+  artifactKey: Guid(71a20340449671f48b902334bc6b5993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/jump-01.png using Guid(71a20340449671f48b902334bc6b5993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e788648cf5ec130e0f7b682f5dfdd7f') in 0.001663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/jump-02.png
+  artifactKey: Guid(64940212aca10e546ae036b96cc8933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/jump-02.png using Guid(64940212aca10e546ae036b96cc8933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562a25871f083c133b314ea639bea88d') in 0.001618 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/PlatformerSet1/AnimCharacter/run-03.png
+  artifactKey: Guid(cfd99eef5629f5e4cbe78bd3376714fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/AnimCharacter/run-03.png using Guid(cfd99eef5629f5e4cbe78bd3376714fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e712f606e9c3933c8cb9ed09b3d6322') in 0.001392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.295962 seconds.
+  path: Assets/PlatformerSet1/Animated/diamond-02.png
+  artifactKey: Guid(d8019449f3d9bd74ab9c2d1b4ee259d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/Animated/diamond-02.png using Guid(d8019449f3d9bd74ab9c2d1b4ee259d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe32def8c4a35338e38f7d2d52fad678') in 0.001607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PlatformerSet1/Animated/light-03.png
+  artifactKey: Guid(941acab82118b78418d529bd0869e115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/Animated/light-03.png using Guid(941acab82118b78418d529bd0869e115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77afdf4554a0a5a65cd61cde18bfbe9') in 0.001358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PlatformerSet1/Animated/torch-A-03.png
+  artifactKey: Guid(153d88c4f31c10746aeec324851a95d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/Animated/torch-A-03.png using Guid(153d88c4f31c10746aeec324851a95d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6427a7deeea050d790e95a51701059da') in 0.001540 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/PlatformerSet1/Animated/torch-C-04.png
+  artifactKey: Guid(aa29ff8d97b59d04080af7cbb125622e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/Animated/torch-C-04.png using Guid(aa29ff8d97b59d04080af7cbb125622e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '459c6f7ad3d68c4550787420f06f76e6') in 0.001415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/PlatformerSet1/Animated/torch-A-04.png
+  artifactKey: Guid(724d32bae3df6e9448697123f1acd972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/Animated/torch-A-04.png using Guid(724d32bae3df6e9448697123f1acd972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce4676469214e2c53c07b7c2c314ddb') in 0.001469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PlatformerSet1/Animated/light-04.png
+  artifactKey: Guid(dbd558ef2c2290a478cdc40badcb4430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/Animated/light-04.png using Guid(dbd558ef2c2290a478cdc40badcb4430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34df27e1afeec09d1793f6f514fee7f1') in 0.001402 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/PlatformerSet1/Animated/torch-C-01.png
+  artifactKey: Guid(80639418a069e3147bff7c5c3e2618cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformerSet1/Animated/torch-C-01.png using Guid(80639418a069e3147bff7c5c3e2618cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5c117cd3ba38a0b35ad72c606964af') in 0.001626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
